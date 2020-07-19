@@ -5,6 +5,7 @@ new hoverEffect({
     image2: './bw2.jpg',
     // speedIn:3,
     // speedOut:5,
+    
     angle: Math.PI /2,
     displacementImage: './bw3.jpg'
 })
