@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+    height: 100vh;
+    justify-content: space-around;
+}
+
+.distortion {
+    margin: auto;
+    align-self: center;
+    width: 780px;
+    height: 560px;
+}
